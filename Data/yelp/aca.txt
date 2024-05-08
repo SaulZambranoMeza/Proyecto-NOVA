@@ -1,1 +1,5 @@
-aca irian los datos de yelp.
+Data original de Yelp.
+
+Los archivos de esta carpeta 'yelp' tienen un peso superior al permitido por GitHub.
+
+Este archivo solo tiene la función de mantener la estructura de directorios usados en los notebooks.

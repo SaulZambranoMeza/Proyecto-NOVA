@@ -1,1 +1,5 @@
-aca irian los datos puros de google pero pesan demasiado
+Data original de Google Maps.
+
+Los archivos de esta carpeta 'google_maps' tienen un peso superior al permitido por GitHub.
+
+Este archivo solo tiene la función de mantener la estructura de directorios usados en los notebooks.

@@ -1,1 +1,0 @@
-Las carpetas faltantes nombradas en los notebooks no se subieron debido al peso de los archivos encontrados en ellas.
