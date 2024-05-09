@@ -31,7 +31,7 @@ Como consultora de datos, hemos sido seleccionados para realizar un análisis ex
 
 - **Fuentes de Datos:** Utilizaremos principalmente los datos proporcionados por la compañía, obtenidos de fuentes como Yelp y Google Maps.
 
-- **Período de Tiempo:** Los datos utilizados en el proyecto abarcarán un período a partir del año 2015.
+- **Período de Tiempo:** Los datos utilizados en el proyecto abarcarán un período a partir del año 2011.
 
 Con este alcance definido, nuestro objetivo es realizar un análisis exhaustivo y relevante del panorama gastronómico en los cinco estados seleccionados, utilizando datos confiables y actualizados para proporcionar información estratégica para el desarrollo de negocios en esta industria.
 
