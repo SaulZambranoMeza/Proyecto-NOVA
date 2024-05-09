@@ -5,3 +5,4 @@ Data/data_procesada/reviews_google_maps.parquet
 /Data/google_maps/reviews_estados/
 /Data/google_maps/Diccionario de datos.docx
 pruebas.ipynb
+/Data/data_procesada/Dataset_Review.parquet
