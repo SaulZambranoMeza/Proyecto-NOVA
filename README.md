@@ -2,7 +2,7 @@
 
 # YELP & GOOGLE MAPS - REVIEWS AND RECOMMENDATIONS
 
-![Logo](./Imagenes/Banner nova.png)
+![Logo](./Imagenes/Banner.png)
 
 </div>
 
@@ -36,9 +36,11 @@ Como consultora de datos, hemos sido seleccionados para realizar un análisis ex
 Con este alcance definido, nuestro objetivo es realizar un análisis exhaustivo y relevante del panorama gastronómico en los cinco estados seleccionados, utilizando datos confiables y actualizados para proporcionar información estratégica para el desarrollo de negocios en esta industria.
 
 <details>
-<summary><strong>Objetivo general</strong></summary>
+## Objetivos Generales
 
 Nuestra empresa se propone realizar un profundo estudio de los datos de reseñas de Google Maps y Yelp que nos han proporcionado. Además, planeamos obtener información adicional mediante diversas APIs. El objetivo principal es predecir qué tipo de rubro de negocio tendrá un mayor crecimiento, identificar los tipos de restaurantes más populares en Estados Unidos y saber dónde es conveniente emplazar los nuevos locales de restaurantes.
+
+<details>
 
 </details>
 
