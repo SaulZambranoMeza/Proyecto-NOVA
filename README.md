@@ -1,8 +1,8 @@
 <div align="center">
 
-# YELP & GOOGLE MAPS - REVIEWS AND RECOMMENDATIONS
-
 ![Logo](./Imagenes/Banner.png)
+
+# YELP & GOOGLE MAPS - REVIEWS AND RECOMMENDATIONS
 
 </div>
 
