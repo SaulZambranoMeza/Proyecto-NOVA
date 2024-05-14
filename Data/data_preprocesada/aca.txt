@@ -1,7 +1,0 @@
-En este directorio se encuentran archivos en una etapa intermedia de procesamiento.
-
-Los archivos de esta carpeta tienen un peso superior al permitido por GitHub.
-
-Este archivo solo tiene la función de mantener la estructura de directorios usados en los notebooks.
-
-Prueba Alejandro 2
