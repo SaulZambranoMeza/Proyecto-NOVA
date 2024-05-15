@@ -95,15 +95,7 @@ Explora el Tablero
 
 ## Integrantes
 
-### Gabriela Bergagna - Analista de Datos
-### Saul Zambrano - Analista de Datos
-### Daniel Hernandez - Ingeniero de Datos
-### Jorge Alvarez - Ingeniero de Datos
-### Alejandro Salinas - Científico de Datos
-
-## Integrantes
-
 | Gabriela Bergagna <br> Analista de Datos | Saul Zambrano <br> Analista de Datos | Daniel Hernandez <br> Ingeniero de Datos | Jorge Alvarez <br> Ingeniero de Datos | Alejandro Salinas <br> Científico de Datos |
 |---|---|---|---|---|
-| ![Gabriela Bergagna](Imagenes/foto_gabriela.jpg){:width="100px"} | ![Saul Zambrano](Imagenes/foto_saul.jpg){:width="100px"} | ![Daniel Hernandez](Imagenes/foto_daniel.jpg){:width="100px"} | ![Jorge Alvarez](Imagenes/foto_jorge.jpg){:width="100px"} | ![Alejandro Salinas](Imagenes/foto_alejandro.jpg){:width="100px"} |
-| [LinkedIn](www.linkedin.com/in/gabriela-bergagna) ![LinkedIn](imagenes/linkedin.png){:width="40px"} | [LinkedIn](https://www.linkedin.com/in/sa%C3%BAl-fernando-zambrano-meza-7525b3165/) ![LinkedIn](imagenes/linkedin.png){:width="40px"} | [LinkedIn](www.linkedin.com/in/daniel-hernández-84991429a) ![LinkedIn](imagenes/linkedin.png){:width="40px"} | [LinkedIn](https://www.linkedin.com/in/jorgealvarezore/) ![LinkedIn](imagenes/linkedin.png){:width="40px"} | [LinkedIn](https://www.linkedin.com/in/alejandrosalinaspal/) ![LinkedIn](imagenes/linkedin.png){:width="40px"} |
+| Gabriela Bergagna <br> Analista de Datos ![Gabriela Bergagna](Imagenes/foto_gabriela.jpg) | Saul Zambrano <br> Analista de Datos ![Saul Zambrano](Imagenes/foto_saul.jpg) | Daniel Hernandez <br> Ingeniero de Datos ![Daniel Hernandez](Imagenes/foto_daniel.jpg) | Jorge Alvarez <br> Ingeniero de Datos ![Jorge Alvarez](Imagenes/foto_jorge.jpg) | Alejandro Salinas <br> Científico de Datos ![Alejandro Salinas](Imagenes/foto_alejandro.jpg) |
+| [LinkedIn](www.linkedin.com/in/gabriela-bergagna) ![LinkedIn](Imagenes/linkedin.png) | [LinkedIn](www.linkedin.com/in/sa%C3%BAl-fernando-zambrano-meza-7525b3165/) ![LinkedIn](Imagenes/linkedin.png) | [LinkedIn](www.linkedin.com/in/daniel-hernández-84991429a) ![LinkedIn](Imagenes/linkedin.png) | [LinkedIn](www.linkedin.com/in/jorgealvarezore/) ![LinkedIn](Imagenes/linkedin.png) | [LinkedIn](www.linkedin.com/in/alejandrosalinaspal/) ![LinkedIn](Imagenes/linkedin.png) |
