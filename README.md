@@ -66,8 +66,22 @@ Nuestra empresa se propone realizar un profundo estudio de los datos de reseñas
 
 ## Integrantes
 
-- Gabriela Bergagna: Analista de datos
-- Saul Zambrano: Analista de datos
-- Daniel Hernandez: Ingeniero de datos
-- Jorge Alvarez: Ingeniero de datos
-- Alejandro Salinas: Científico de datos
+### Gabriela Bergagna - Analista de Datos
+[![Gabriela Bergagna](Imagenes/foto_gabriela.jpg)]([[enlace/a/perfil/linkedin](https://www.linkedin.com/in/gabriela-bergagna)]
+<a href="Linkedin"><img Imagenes/linkedin.png" alt="LinkedIn" width="20" height="20"></a>
+
+### Saul Zambrano - Analista de Datos
+[![Saul Zambrano](ruta/a/saul.jpg)](enlace/a/perfil/linkedin)
+<a href="enlace/a/perfil/linkedin"><img src="ruta/al/logo/linkedin.png" alt="LinkedIn" width="20" height="20"></a>
+
+### Daniel Hernandez - Ingeniero de Datos
+[![Daniel Hernandez](ruta/a/daniel.jpg)](enlace/a/perfil/linkedin)
+<a href="enlace/a/perfil/linkedin"><img src="ruta/al/logo/linkedin.png" alt="LinkedIn" width="20" height="20"></a>
+
+### Jorge Alvarez - Ingeniero de Datos
+[![Jorge Alvarez](ruta/a/jorge.jpg)](enlace/a/perfil/linkedin)
+<a href="enlace/a/perfil/linkedin"><img src="ruta/al/logo/linkedin.png" alt="LinkedIn" width="20" height="20"></a>
+
+### Alejandro Salinas - Científico de Datos
+[![Alejandro Salinas](ruta/a/alejandro.jpg)](enlace/a/perfil/linkedin)
+<a href="enlace/a/perfil/linkedin"><img src="ruta/al/logo/linkedin.png" alt="LinkedIn" width="20" height="20"></a>
