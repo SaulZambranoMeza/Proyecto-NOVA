@@ -95,7 +95,7 @@ Explora el Tablero
 
 ## Integrantes
 
-| Gabriela Bergagna <br> Analista de Datos | Saul Zambrano <br> Analista de Datos | Daniel Hernandez <br> Ingeniero de Datos | Jorge Alvarez <br> Ingeniero de Datos | Alejandro Salinas <br> Científico de Datos |
+| **Gabriela Bergagna** <br> Analista de Datos | **Saul Zambrano** <br> Analista de Datos | **Daniel Hernandez** <br> Ingeniero de Datos | **Jorge Alvarez** <br> Ingeniero de Datos | **Alejandro Salinas** <br> Científico de Datos |
 |---|---|---|---|---|
-| Gabriela Bergagna <br> Analista de Datos ![Gabriela Bergagna](Imagenes/foto_gabriela.jpg) | Saul Zambrano <br> Analista de Datos ![Saul Zambrano](Imagenes/foto_saul.jpg) | Daniel Hernandez <br> Ingeniero de Datos ![Daniel Hernandez](Imagenes/foto_daniel.jpg) | Jorge Alvarez <br> Ingeniero de Datos ![Jorge Alvarez](Imagenes/foto_jorge.jpg) | Alejandro Salinas <br> Científico de Datos ![Alejandro Salinas](Imagenes/foto_alejandro.jpg) |
-| [LinkedIn](www.linkedin.com/in/gabriela-bergagna) ![LinkedIn](Imagenes/linkedin.png) | [LinkedIn](www.linkedin.com/in/sa%C3%BAl-fernando-zambrano-meza-7525b3165/) ![LinkedIn](Imagenes/linkedin.png) | [LinkedIn](www.linkedin.com/in/daniel-hernández-84991429a) ![LinkedIn](Imagenes/linkedin.png) | [LinkedIn](www.linkedin.com/in/jorgealvarezore/) ![LinkedIn](Imagenes/linkedin.png) | [LinkedIn](www.linkedin.com/in/alejandrosalinaspal/) ![LinkedIn](Imagenes/linkedin.png) |
+| ![Gabriela Bergagna](Imagenes/foto_gabriela.jpg) | ![Saul Zambrano](Imagenes/foto_saul.jpg) | ![Daniel Hernandez](Imagenes/foto_daniel.jpg) | ![Jorge Alvarez](Imagenes/foto_jorge.jpg) | ![Alejandro Salinas](Imagenes/foto_alejandro.jpg) |
+| [LinkedIn](www.linkedin.com/in/gabriela-bergagna) | [LinkedIn](www.linkedin.com/in/sa%C3%BAl-fernando-zambrano-meza-7525b3165/) | [LinkedIn](www.linkedin.com/in/daniel-hernández-84991429a) | [LinkedIn](www.linkedin.com/in/jorgealvarezore/) | [LinkedIn](www.linkedin.com/in/alejandrosalinaspal/) |
