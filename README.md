@@ -64,6 +64,35 @@ Nuestra empresa se propone realizar un profundo estudio de los datos de reseñas
 
 ![stack](./Imagenes/stack.png)
 
+## Dashboard
+
+### Finalidad
+El Tablero de Analítica tiene como objetivo principal proporcionar una visión integral del negocio de restaurantes en Estados Unidos, destacando la competencia y las especializaciones en cada ubicación.
+
+<details>
+<summary>Características Clave</summary>
+
+- **Visualizaciones Interactivas:** Explora los datos dinámicamente a través de gráficos, diagramas y mapas interactivos.
+- **Filtros Personalizables:** Ajusta el tablero según tus necesidades específicas mediante la modificación de filtros y parámetros.
+- **Interfaz Amigable:** Navega por el tablero sin esfuerzo con un diseño intuitivo y fácil de usar.
+
+</details>
+
+<details>
+<summary>¿Cómo Utilizarlo?</summary>
+
+1. **Selecciona Filtros:** Utiliza los menús desplegables o deslizadores para personalizar los datos mostrados.
+2. **Interactúa con las Visualizaciones:** Pasa el cursor sobre los gráficos para obtener información detallada o haz clic en elementos para filtrar aún más los datos.
+3. **Explora las Pestañas:** Navega entre diferentes secciones o pestañas para explorar varios aspectos de los datos.
+4. **Exporta Datos:** Exporta visualizaciones o tablas de datos para análisis o informes adicionales.
+
+</details>
+
+### ¿Listo para Empezar?
+¡Obtén ideas clave para tu negocio y toma decisiones informadas:
+
+Explora el Tablero
+
 ## Integrantes
 
 ### Gabriela Bergagna - Analista de Datos
@@ -71,4 +100,10 @@ Nuestra empresa se propone realizar un profundo estudio de los datos de reseñas
 ### Daniel Hernandez - Ingeniero de Datos
 ### Jorge Alvarez - Ingeniero de Datos
 ### Alejandro Salinas - Científico de Datos
+
+## Integrantes
+
+| ![Gabriela Bergagna](Imagenes/foto_gabriela){:width="100px"} <br> Gabriela Bergagna <br> Analista de Datos | ![Saul Zambrano](Imagenes/foto_saul){:width="100px"} <br> Saul Zambrano <br> Analista de Datos | ![Daniel Hernandez](Imagenes/foto_daniel){:width="100px"} <br> Daniel Hernandez <br> Ingeniero de Datos | ![Jorge Alvarez](Imagenes/foto_jorge){:width="100px"} <br> Jorge Alvarez <br> Ingeniero de Datos | ![Alejandro Salinas](Imagenes/foto_alejandro){:width="100px"} <br> Alejandro Salinas <br> Científico de Datos |
+|---|---|---|---|---|
+| [LinkedIn](www.linkedin.com/in/gabriela-bergagna) ![LinkedIn](imagenes/linkedin){:width="40px"} | [LinkedIn](www.linkedin.com/in/gabriela-bergagna) ![LinkedIn](imagenes/linkedin){:width="40px"} | [LinkedIn](www.linkedin.com/in/gabriela-bergagna) ![LinkedIn](imagenes/linkedin){:width="40px"} | [LinkedIn](www.linkedin.com/in/gabriela-bergagna) ![LinkedIn](imagenes/linkedin){:width="40px"} | [LinkedIn](www.linkedin.com/in/gabriela-bergagna) ![LinkedIn](imagenes/linkedin){:width="40px"} |
 
