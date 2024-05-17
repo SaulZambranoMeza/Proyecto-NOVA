@@ -17,6 +17,7 @@
 - [Sistema de Recomendación](#sistema-de-recomendación)
 - [Dashboard](#dashboard)
 - [Stack Tecnológico](#stack-tecnológico)
+- [Pipeline](#pipeline)
 - [Integrantes](#integrantes)
 
 </details>
@@ -130,6 +131,10 @@ Explora el Tablero
 ## Stack Tecnológico
 
 ![stack](./Imagenes/stack.png)
+
+## Pipeline
+
+![Pipeline](./Imagenes/pipeline_etl.png)
 
 ## Integrantes
 
