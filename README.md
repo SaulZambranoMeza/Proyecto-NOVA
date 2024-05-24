@@ -57,11 +57,11 @@ Nuestra empresa se propone realizar un profundo estudio de los datos de reseñas
 
 ## KPIs (Indicadores Clave de Rendimiento)
 
-- **Porcentaje de Participación en el Mercado por Tipo de Comida:** Aumento del 10% en la participación de mercado respecto al tipo de comida con mayor participación.
+- **Porcentaje de aceptación en el Estado de Pennsylvania:**  Este KPI buscará un aumento del 5% en la calificación promedio en el estado de Pennsylvania respecto al año anterior.
 
 - **Porcentaje de Éxito de Apertura de Nuevos Restaurantes:** Crecimiento del 8% en la cantidad de nuevos restaurantes abiertos en ubicaciones relevantes.
 
-- **Porcentaje de Reseñas Positivas por Categoría:** Aumento del 10% en las reseñas positivas trimestralmente.
+- **Porcentaje de Reseñas Positivas por Categoría:** Este KPI buscará aumentar 15% en la cantidad de usuarios respecto al año anterior.
 
 ## Sistema de Recomendación
 
