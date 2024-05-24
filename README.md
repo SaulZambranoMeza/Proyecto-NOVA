@@ -147,5 +147,9 @@ Descubre a tu competencia y obtén información para impulsar el éxito de tu re
   <tr>
     <td align="center"><strong>Gabriela Bergagna</strong><br><img src="Imagenes/foto_gabriela.jpg" width="100"><br>Analista de Datos<br><a href="https://www.linkedin.com/in/gabriela-bergagna">LinkedIn</a></td>
     <td align="center"><strong>Saul Zambrano</strong><br><img src="Imagenes/foto_saul.jpg" width="100"><br>Analista de Datos<br><a href="https://www.linkedin.com/in/sa%C3%BAl-fernando-zambrano-meza-7525b3165/">LinkedIn</a></td>
-    <td align="center"><strong>Daniel Hernandez</strong><br><img src="Imagenes/foto_daniel.jpg"
+    <td align="center"><strong>Daniel Hernandez</strong><br><img src="Imagenes/foto_daniel.jpg" width="100"><br>Ingeniero de Datos<br><a href="https://www.linkedin.com/in/daniel-hernández-84991429a">LinkedIn</a></td>
+    <td align="center"><strong>Jorge Alvarez</strong><br><img src="Imagenes/foto_jorge.jpg" width="100"><br>Ingeniero de Datos<br><a href="https://www.linkedin.com/in/jorgealvarezore/">LinkedIn</a></td>
+    <td align="center"><strong>Alejandro Salinas</strong><br><img src="Imagenes/foto_alejandro.jpg" width="100"><br>Científico de Datos<br><a href="https://www.linkedin.com/in/alejandrosalinaspal/">LinkedIn</a></td>
+  </tr>
+</table>
 
