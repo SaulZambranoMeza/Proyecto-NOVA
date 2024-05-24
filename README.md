@@ -60,9 +60,9 @@ Nuestra empresa se propone realizar un profundo estudio de los datos de reseñas
 
 - **Porcentaje de aceptación en el Estado de Pennsylvania:**  Este KPI buscará un aumento del 5% en la calificación promedio en el estado de Pennsylvania respecto al año anterior.
 
-- **Porcentaje de Éxito de Apertura de Nuevos Restaurantes:** Crecimiento del 8% en la cantidad de nuevos restaurantes abiertos en ubicaciones relevantes.
+- **Porcentaje de Éxito de Apertura de Nuevos Restaurantes:** Crecimiento del 8% en la cantidad de nuevos restaurantes abiertos en ubicaciones relevantes con respecto al año anterior.
 
-- **Porcentaje de Reseñas Positivas por Categoría:** Este KPI buscará aumentar 15% en la cantidad de usuarios respecto al año anterior.
+- **Porcentaje de usuarios:** Este KPI buscará aumentar 15% en la cantidad de usuarios respecto al año anterior.
 
 ## Stack Tecnológico
 
