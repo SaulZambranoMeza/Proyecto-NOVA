@@ -31,7 +31,7 @@ Como consultora de datos, hemos sido seleccionados para realizar un análisis ex
 
 - **Categorías Gastronómicas:** El análisis se centrará exclusivamente en el rubro gastronómico, en específico restaurantes. Otras categorías fuera de este ámbito no serán consideradas en el alcance del proyecto.
 
-- **Área Geográfica:** El análisis se limitará a cinco estados de los Estados Unidos: California, Florida, Nevada, Hawái y Nueva York.
+- **Área Geográfica:** El análisis se limitará a cinco estados de los Estados Unidos: California, Florida, Nevada, Pensilvania y Nueva York.
 
 - **Fuentes de Datos:** Utilizaremos principalmente los datos proporcionados por la compañía, obtenidos de fuentes como Yelp y Google Maps.
 
