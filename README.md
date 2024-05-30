@@ -103,7 +103,7 @@ El Tablero de Analítica tiene como objetivo principal proporcionar una visión 
 ### ¿Listo para Empezar?
 ¡Obtén ideas clave para tu negocio y toma decisiones informadas!
 
-[Explora el Tablero](#)
+[Explora el Tablero](https://app.powerbi.com/view?r=eyJrIjoiMmNmZTM0OTYtNzA0NC00MDdmLThlZTQtYTcxMzQwYzJkZjgwIiwidCI6IjgzZGMwYzk0LWRkNTgtNDlmNC05YmI0LTU4NDhjMWM3NmYzYyJ9)
 
 ## Sistema de Recomendación
 
@@ -150,6 +150,5 @@ Descubre a tu competencia y obtén información para impulsar el éxito de tu re
     <td align="center"><strong>Daniel Hernandez</strong><br><img src="Imagenes/foto_daniel.jpg" width="100"><br>Ingeniero de Datos<br><a href="https://www.linkedin.com/in/daniel-hernández-84991429a">LinkedIn</a></td>
     <td align="center"><strong>Jorge Alvarez</strong><br><img src="Imagenes/foto_jorge.jpg" width="100"><br>Ingeniero de Datos<br><a href="https://www.linkedin.com/in/jorgealvarezore/">LinkedIn</a></td>
     <td align="center"><strong>Alejandro Salinas</strong><br><img src="Imagenes/foto_alejandro.jpg" width="100"><br>Científico de Datos<br><a href="https://www.linkedin.com/in/alejandrosalinaspal/">LinkedIn</a></td>
-  </tr>
-</table>
+  </
 
