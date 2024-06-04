@@ -1,8 +1,13 @@
 /venv
 /Data/data_preprocesada/reviews_estado_puro.parquet
+/Data/data_preprocesada/ReviewYelpId.csv
+/Data/data_procesada/Dataset_Business_extendido.parquet
+/Data/data_procesada/Dataset_Checkin.parquet
+/Data/data_procesada/Dataset_Review.parquet
+/Data/data_procesada/Dataset_Review_extendido.parquet
+/Data/data_procesada/Dataset_Review_simplificado.parquet
 /Data/data_procesada/reviews_google_maps.parquet
 /Data/data_unificada/reviews_unificadas.parquet
-/Data/data_procesada/Dataset_Review_simplificado.parquet
 /Data/google_maps/reviews_estados/
 /Data/google_maps/metadata-sitios/
 pruebas.ipynb
